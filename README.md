@@ -10,3 +10,5 @@ requests==2.28.2
 Install the requirements via python, then you want to open main.exe and it will do everything automatically.
 If you have questions contact me on tg.
 if you want to bypass bans use proxies.
+
+<img width="860" height="511" alt="image" src="https://github.com/user-attachments/assets/b980e169-f82f-4665-8f6d-277883b7e4fd" />
