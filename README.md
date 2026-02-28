@@ -8,4 +8,5 @@ fake-useragent==1.2.1
 requests==2.28.2
 # HOW TO USE IT
 Install the requirements via python, then you want to open main.exe and it will do everything automatically.
-If you have questions contact me on tg
+If you have questions contact me on tg.
+if you want to bypass bans use proxies.
